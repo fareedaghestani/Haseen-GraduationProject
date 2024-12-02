@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445891354343",
+    "project_id": "saudigard-403d8",
+    "storage_bucket": "saudigard-403d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445891354343:android:67bc7db6a285cd7b194c42",
+        "android_client_info": {
+          "package_name": "com.example.saudigard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC72K-GRYnObTb-YzDA0bvBnAxXeowgUwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
